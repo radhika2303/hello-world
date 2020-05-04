@@ -1,4 +1,4 @@
 # hello-world
 Basic repository to start with
-hellp world
+hello world
 My name is radhika
